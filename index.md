@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+# Shreya Venkat's First CS193 Homework
+
+## CS193 Favorites
+- Helps with CS180 
+- Made me think hard about tennis and watermelons
+- An extra credit hour
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
